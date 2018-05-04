@@ -1,5 +1,4 @@
 Option 1: PyBank
-
 Analyzing the financial records of the company with given two sets of revenue date (`budget_data_1.csv` and `budget_data_2.csv`) . Each dataset is composed of two columns: `Date` and `Revenue`.
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
@@ -16,6 +15,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 As an example, your analysis should look similar to the one below:
 
+```
 Financial Analysis
 -------------------------
 Total Months: 41
@@ -23,5 +23,3 @@ Total Revenue: $18971412
 Average Change: $462717.37
 Greatest Increase: Feb-16 ($1837235)
 Greatest Decrease: Aug-14 ($-1779747)```
-
-
