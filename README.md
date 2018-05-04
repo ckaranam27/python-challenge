@@ -16,6 +16,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 As an example, your analysis should look similar to the one below:
 
+''''
 Financial Analysis
 -------------------------
 Total Months: 41
