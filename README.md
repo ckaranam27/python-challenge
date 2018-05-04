@@ -16,11 +16,11 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 As an example, your analysis should look similar to the one below:
 
-```
 Financial Analysis
-----------------------------
-Total Months: 25
-Total Revenue: $1241412
-Average Revenue Change: $216825
-Greatest Increase in Revenue: Sep-16 ($815531)
-Greatest Decrease in Revenue: Aug-12 ($-652794)
+-------------------------
+Total Months: 41
+Total Revenue: $18971412
+Average Change: $462717.37
+Greatest Increase: Feb-16 ($1837235)
+Greatest Decrease: Aug-14 ($-1779747)
+
