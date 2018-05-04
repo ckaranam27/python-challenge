@@ -1,4 +1,5 @@
-Option 1: PyBank
+Option 1: PyBank:
+
 Analyzing the financial records of the company with given two sets of revenue date (`budget_data_1.csv` and `budget_data_2.csv`) . Each dataset is composed of two columns: `Date` and `Revenue`.
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
